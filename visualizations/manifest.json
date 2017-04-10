@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "jsheely-whenhub1": {
+    "title": "",
+    "website": "https://github.com/jsheely-whenhub1",
+    "logo": "https://avatars1.githubusercontent.com/u/27217958?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/jsheely-whenhub1",
           "versions": {
             "1.0.0": {
               "simple": {
